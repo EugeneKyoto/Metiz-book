@@ -7,3 +7,4 @@ for i in range(10):
 name = 'Eugene'
 job = 'Sweet Dreams'
 print(name, job, 'Waiting for.')
+print(f'\nМало времени, готовлюсь к собеседованию...\np.s. {name.upper()}.')
